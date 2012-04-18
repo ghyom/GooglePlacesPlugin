@@ -4,7 +4,7 @@ $:.push File.expand_path("../lib", __FILE__)
 Gem::Specification.new do |s|
   s.name        = "siriproxy-gpp"
   s.version     = "0.0.1b" 
-  s.authors     = ["robbederks"]
+  s.authors     = ["ghyom"]
   s.email       = [""]
   s.homepage    = ""
   s.summary     = %q{A Siri Proxy plugin that retrieves data from Google Places.}

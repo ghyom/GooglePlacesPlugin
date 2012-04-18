@@ -5,4 +5,4 @@
 ##########################
     
     - name: 'GPP'
-      git: 'git://github.com/robbederks/GooglePlacesPlugin.git'
+      git: 'git://github.com/ghyom/GooglePlacesPlugin.git'
